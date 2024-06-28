@@ -1,16 +1,33 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thespectacular314.thespectacular314" />
+<h1 align="center">Hi, I'm Baranidharan Selvaraj <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/baranidharan-selvaraj-59bb02293/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=solid&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
-<!--
-**thespectacular314/thespectacular314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.instagram.com/im_barani14/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=solid&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+  <a href="https://twitter.com/im_barani14">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=solid&logo=x&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:baranidharans2005@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-red?style=solid&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</div>
+
+<h2>About me</h2>
+
+<h2>Tech Stack</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,vscode,github,tensorflow,opencv" /><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,docker,firebase,django,flask,mysql,matlab,linux,windows" /><br>
+</div>
+
+<h2>STATS</h2> 
+<div align="center">
+  <img width=390 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thespectacular314&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>&nbsp;&nbsp&nbsp;&nbsp;
+  <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=thespectacular314&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />&nbsp;&nbsp&nbsp;&nbsp;
+</div>

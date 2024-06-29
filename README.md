@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thespectacular314.thespectacular314" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=thespectacular314&label=Profile%20Views&color=1&icon=8&pretty=true"/>
 <h1 align="center">Hi, I'm Baranidharan Selvaraj <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/baranidharan-selvaraj-59bb02293/">
@@ -14,17 +14,20 @@
   </a>&nbsp;&nbsp;
 
   <a href="mailto:baranidharans2005@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-red?style=solid&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=solid&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </div>
 
-<h2>About me</h2>
+<h2>ABOUT ME</h2>
+Hey There! I'm Barani, currently doing my B.Tech in Artificial Intelligence. I am very much interested in developing my skills and knowledge in the Computer Science field.
+<br/>
 
-<h2>Tech Stack</h2>
+<h2>MY TECH STACK</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,vscode,github,tensorflow,opencv" /><br>
-    <img src="https://skillicons.dev/icons?i=sklearn,docker,firebase,django,flask,mysql,matlab,linux,windows" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,vscode,tensorflow,opencv" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,firebase,django,flask,mysql,matlab,windows" /><br>
 </div>
+<br/>
 
 <h2>STATS</h2> 
 <div align="center">

@@ -25,7 +25,7 @@ Hey There! I'm Barani, currently doing my B.Tech in Artificial Intelligence. I a
 <h2>MY TECH STACK</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,vscode,tensorflow,opencv" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,firebase,flask,mysql,matlab,windows" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,firebase,flask,mysql,matlab,windows,ubuntu" /><br>
 </div>
 <br/>
 

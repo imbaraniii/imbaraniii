@@ -19,13 +19,13 @@
 </div>
 
 <h2>ABOUT ME</h2>
-Hey There! I'm Barani, currently doing my B.Tech in Artificial Intelligence. I am very much interested in developing my skills and knowledge in the Computer Science field.
+Hey There! I'm Barani, currently doing my B.Tech in Artificial Intelligence. I am very much interested in developing my skills and knowledge in the Computer Science field especially majoring in AI and Backend Developing.
 <br/>
 
 <h2>MY TECH STACK</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,tensorflow,opencv" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,firebase,flask,mysql,matlab,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,git,firebase,mongodb,flask,mysql,matlab,ubuntu" /><br>
 </div>
 <br/>
 

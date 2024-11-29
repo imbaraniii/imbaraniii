@@ -1,4 +1,3 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=thespectacular314&label=Profile%20Views&color=1&icon=8&pretty=true"/>
 <h1 align="center">Hi, I'm Baranidharan Selvaraj <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/baranidharan-selvaraj-59bb02293/">
@@ -19,7 +18,7 @@
 </div>
 
 <h2>ABOUT ME</h2>
-Hey There! I'm Barani, currently doing my B.Tech in Artificial Intelligence. I am very much interested in developing my skills and knowledge in the Computer Science field especially majoring in AI and Backend Developing.
+Hey There! I'm Barani, currently doing my B.Tech in Artificial Intelligence. I am passionate about creating backend applications and AI applications. I have keen interest on learning new technologies in this field.
 <br/>
 
 <h2>MY TECH STACK</h2>

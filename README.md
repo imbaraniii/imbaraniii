@@ -30,6 +30,6 @@ Hey There! I'm Barani, currently doing my B.Tech in Artificial Intelligence. I a
 
 <h2>STATS</h2> 
 <div align="center">
-  <img width=390 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thespectacular314&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>&nbsp;&nbsp&nbsp;&nbsp;
-  <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=thespectacular314&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />&nbsp;&nbsp&nbsp;&nbsp;
+  <img width=390 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=imbaraniii&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>&nbsp;&nbsp&nbsp;&nbsp;
+  <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=imbaraniii&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />&nbsp;&nbsp&nbsp;&nbsp;
 </div>

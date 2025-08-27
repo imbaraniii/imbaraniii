@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=solid&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/im_barani14/">
+  <a href="https://www.instagram.com/imbaraniii/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=solid&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
 
